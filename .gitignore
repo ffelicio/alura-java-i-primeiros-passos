@@ -2,6 +2,6 @@
 .idea
 /.metadata/
 .recommenders/
-/.classpath
-/.project
+*/.classpath
+*/.project
 .settings/*
